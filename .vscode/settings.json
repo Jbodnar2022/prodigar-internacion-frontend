@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/f5e55b5b-abc5-4975-badb-070279d19bd9/resourceGroups/Prodigar/providers/Microsoft.Web/sites/prodigar",
+    "appService.deploySubpath": "dist"
+}
